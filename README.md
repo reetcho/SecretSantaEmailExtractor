@@ -18,3 +18,8 @@ This is a simple Jupyter Notebook to create a Secret Santa through email. It all
   - Use this password in the code to log in to the email
 
 - After setting the email credentials, set the email message and the names and emails of participants. You are now ready to run the notebook and send the Secret Santa emails!
+
+## Note
+
+- If any of the participants’ email addresses are incorrect, the sending email account will receive a message saying the email could not be delivered.  
+- Make sure all participants’ names are unique to avoid confusion when assigning Secret Santa pairings.
