@@ -9,7 +9,7 @@ This is a simple Jupyter Notebook to create a Secret Santa through email. It all
   - Set the message that will be sent via email
   - Add the names and email addresses of all the participants
 
-- For sending the emails, it is recommended to use a Gmail address. Simply entering the email and password will not work. To make it work:
+- For sending the emails, it is **recommended to use a Gmail address**. Simply entering the email and password will not work. To make it work:
   - Go to Manage your Google Account → Security & Sign-in
   - Enable **2-factor authentication**
   - Create an **App Password**
